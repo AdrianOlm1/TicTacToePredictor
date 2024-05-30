@@ -1,6 +1,6 @@
 # TicTacToe Predictor
 
-### Name:Adrian Olmos
+### Name: Adrian Olmos
 
 ## Overview 
 
